@@ -12,6 +12,7 @@ I am a PhD student in the David Cheriton School of Computer Science at Universi
 Previously, I finished my Masters in Combinatorics and Optimization in 2017 under the supervision of [Dr. Laura Sanita](http://www.math.uwaterloo.ca/~lsanita/), also at the University of Waterloo. Before that, I completed a Bachelors in Computer Science and Engineering at IIIT-Delhi in 2015.
 
 Email : firstname.lastname at uwaterloo.ca
-Here is my [CV](http://charupriyasharma.github.io/files/r_sum_.pdf) 
+
+Here is my [CV](http://charupriyasharma.github.io/files/r_sum_.pdf).
 
  
