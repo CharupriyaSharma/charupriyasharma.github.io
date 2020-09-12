@@ -13,6 +13,6 @@ Previously, I finished my Masters in Combinatorics and Optimization in 2017 und
 
 Email : firstname.lastname at uwaterloo.ca.
 
-Here is my [CV](http://charupriyasharma.github.io/files/r_sum_.pdf).
+Here is my [CV](http://charupriyasharma.github.io/files/Charupriya_Sharma_resume.pdf).
 
  
